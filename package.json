@@ -1,0 +1,11 @@
+{
+  "name": "day44challenge",
+  "version": "1.0.0",
+  "description": "Day 44 Challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
